@@ -7,4 +7,6 @@ The simplest working prototype of a telnet client for connecting and operating w
 5. Working with the Mac Vendors api
 
 The project is executed using the simplest implementation of the MVVM pattern, conforms to the principles of SOLID, with detailed logging in a txt file
+
+
 ![Image alt](https://github.com/alcher96/SimpeTelnetClient/blob/main/image.png)
